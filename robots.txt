@@ -1,0 +1,6 @@
+Sitemap: https://javierpalomaresgarrido.github.io/website/sitemap.xml
+
+User-agent: *
+Disallow: /img/
+Disallow: /README.md
+Disallow: /fonts/
